@@ -1,6 +1,6 @@
 
 ;~ vertion 1.0.0
-
+HotKeySet("{ESC}",exit)
 
 
 Opt("MouseCoordMode", 2)
